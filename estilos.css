@@ -1,0 +1,149 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+}
+
+.navbar-nav {
+    border: radius 30%;
+}
+
+.sobremi {
+    margin-top: 100px;
+}
+
+.animate__bounceInDown {
+    color: #40BFEF;
+}
+
+.death2-color {
+    color: #EB6624;
+}
+
+.col-lg-6 {
+    margin-top: 2%;
+}
+
+.margen {
+    margin-top: 10%;
+    text-align: left;
+}
+
+.img-fluid {
+    margin-top: 3px;
+    max-width: 100%;
+    height: auto;
+}
+
+.profile {
+    border: radius 0%;
+    height: auto;
+    width: 100%;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.biografia {
+    margin-top: 2%;
+}
+
+.iconos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.B {
+    color: #F6C110;
+}
+
+.habilidades {
+    margin-top: 4%;
+}
+
+.holy {
+    margin-top: 20%;
+    color: #EB6624;
+}
+
+.estudio {
+    margin-top: 3%;
+}
+
+.diplomas {
+    margin-top: 11%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.biblia1 {
+    margin-top: 5%;
+    color: #EB6624;
+}
+
+.c {
+    color: #40BFEF;
+}
+
+.hola {
+    margin-top: 10%;
+}
+
+.metal3 {
+    color: #40BFEF;
+}
+
+form {
+    padding: 50px 20px;
+    background-color: #e96423;
+    padding-top: 28px;
+    margin-bottom: 30px
+}
+
+h1 {
+    text-align: center;
+    padding: 12px;
+    color: #444
+}
+
+input {
+    width: calc(100% - 20px);
+    padding: 9px;
+    margin: auto;
+    margin-top: 12px;
+    font-size: 16px
+}
+
+input[type='submit'] {
+    background-color: #F6C110;
+    color: #fff;
+    width: calc(80% - 20px);
+    margin: 0 10%;
+    margin-top: 22px;
+    border: none;
+}
+
+.ok {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #1e6;
+    color: #fff
+}
+
+.bad {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #a22;
+    color: #40BFEF
+}
+
+.metal-video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
